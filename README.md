@@ -1,6 +1,6 @@
 - uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
+  with
+  naila-byte
     # using action context var `github.repository_owner` or specified user
     github_user_name: ${{ naila-byte}}
 
