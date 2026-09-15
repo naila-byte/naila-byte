@@ -66,9 +66,8 @@ I'm continuously expanding my knowledge by building projects, experimenting with
 </p>
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://snk-generator.vercel.app/api/snake?githubUsername=naila-byte&theme=dark" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/naila-byte/naila-byte/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
 ## 🎯 My Developer Journey
 
