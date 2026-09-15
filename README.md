@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Naila Urooj**, an aspiring Python Web developer who enjoys learning, building projects, solving problems, and exploring modern technology.
+Hi! I'm **Naila Urooj**, an aspiring Python Full-Stack developer who enjoys learning, building projects, solving problems, and exploring modern technology.
 
 I'm continuously working on my development skills through hands-on projects and experimentation. My goal is to turn what I learn into useful, practical, and creative software.
 
