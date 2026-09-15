@@ -46,9 +46,11 @@ I'm continuously working on my development skills through hands-on projects and 
 
 ## 📚 Currently Learning
 
-```text
-Learn → Build → Experiment → Debug → Improve → Repeat 🔁
-```
+
+
+<p align="center">
+  <b>Learn</b> ➔ <b>Build</b> ➔ <b>Experiment</b> ➔ <b>Debug</b> ➔ <b>Improve</b> ➔ <b>Repeat</b> 🔄
+</p>
 
 I'm continuously expanding my knowledge by building projects, experimenting with tools, and learning from every challenge.
 
