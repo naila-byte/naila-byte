@@ -39,7 +39,7 @@ I'm continuously working on my development skills through hands-on projects and 
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tech stack"/>
 </p>
 
-> Update this row to match your actual current stack.
+
 
 ---
 
