@@ -71,20 +71,23 @@ I'm continuously expanding my knowledge by building projects, experimenting with
 </p>
 ## 🎯 My Developer Journey
 
-```text
-        Explore
-           ↓
-         Learn
-           ↓
-         Build
-           ↓
-        Debug
-           ↓
-        Improve
-           ↓
-         Build
-         Again 🚀
-```
+
+<p align="center">
+  <b>Explore</b><br>
+  ↓<br>
+  <b>Learn</b><br>
+  ↓<br>
+  <b>Build</b><br>
+  ↓<br>
+  <b>Debug</b><br>
+  ↓<br>
+  <b>Improve</b><br>
+  ↓<br>
+  <b>Build Again 🚀</b>
+</p>
+
+
+
 
 > **Don't just learn technology. Build with it.**
 
